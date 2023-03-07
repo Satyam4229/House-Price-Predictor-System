@@ -6,7 +6,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the model
-model = pickle.load(open("House_Predictor.pkl", "rb"))
+model = pickle.load(open("House_predictor.pkl", "rb"))
 scaler = pickle.load(open("Scaling.pkl", "rb"))
 
 @app.route('/')
