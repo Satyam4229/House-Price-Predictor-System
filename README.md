@@ -29,7 +29,7 @@
     git clone LINK
     ```
 
-5. ### Now open VS Code from that same location
+5. ### Now open VS Code from that same location after adding .pynb file and model.pkl
 
 6. ### Create a new Environment
 
@@ -95,6 +95,6 @@
 
 14. ### After all that we have to create the app.py app which act as a main app behind all that with the help of Flask.
 
-15. ### Then we have to create a html page for prontend and visualization.
+15. ### Then we have to create a html page for frontend and visualization.
 
 16. ### Now after all that we have to go on to render.com and deploy our app with the instructions.
